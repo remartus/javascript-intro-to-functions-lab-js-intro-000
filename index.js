@@ -22,6 +22,5 @@ function logWhisper(string){
 returns "YES INDEED!" if `string` is uppercase
 returns "I love you, too." if `string` is "I love you, Grandma" */
 function sayHiToGrandma(string){
-  if string==="I love you, Grandma."
-    return "I love you, too."
+  
 }
