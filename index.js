@@ -15,5 +15,5 @@ function logShout(string){
 
 //takes a string argument and logs it in all lowercase using console.log()
 function logWhisper(string){
-  
+  console.log(`${string.toLowerCase()}`)
 }
